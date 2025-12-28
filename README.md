@@ -32,7 +32,7 @@ O backlog foi desenhado para equilibrar descoberta (wallpapers) e utilidade (sup
 US-001/002: Galeria HD e download imediato para visitantes.
 
 
-US-004: Suporte via Chat Anônimo para resolução rápida de dúvidas.
+US-004: Suporte via Chat Anônimo + Opção com Novos Termos de Uso, caso o horário queira logar, para resolução rápida de dúvidas.
 +1
 
 
