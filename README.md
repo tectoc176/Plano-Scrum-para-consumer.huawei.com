@@ -1,7 +1,7 @@
 # Plano-Scrum-para-consumer.huawei.com
 Como tornar o suporte Huawei único no Brasil: Redesenho estratégico e técnico do site consumer.huawei.com/br utilizando Metodologias Ágeis para maximizar o engajamento e a satisfação do cliente
 
-🚀 Scrum Plan: Huawei Consumer Support Website Redesign
+🚀 Scrum Plan: Reprojeção | Redesign do site Huawei Consumer Suporte 
 Este repositório apresenta um plano estratégico completo de Engenharia de Software e Gestão Ágil (Scrum) focado no redesenho do portal de suporte da Huawei Brasil. O objetivo é elevar a experiência do usuário (UX), otimizar o engajamento e garantir métricas de performance de nível global.
 +3
 
