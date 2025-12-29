@@ -90,3 +90,5 @@ Licença: MIT
 
 Referências: Guia Scrum 2020, Core Web Vitals (Google), Huawei Brasil.
 +2
+
+Nota: Disponibilizei o plano completo em .docx para facilitar o download e edição por gestores que desejam adaptar esta metodologia às suas operações.
